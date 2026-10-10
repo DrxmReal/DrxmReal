@@ -2,13 +2,13 @@
 
 <!-- Typing SVG Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&height=50&lines=Dr4m+S%C3%BAp%C3%A8r+m%E1%BA%BFrci+%3C3;Medical+Student+%26+Code+Enthusiast;Rust+%E2%80%A2+Python+%E2%80%A2+C%23+%E2%80%A2+React+%E2%80%A2+PHP;Welcome+to+my+digital+universe+%E2%9C%A8" alt="Dr4m Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=Dr4m+S%C3%BAp%C3%A8r+m%E1%BA%BFrci+%3C3;Medical+Student+%26+Code+Enthusiast;Rust+%E2%80%A2+C%2B%2B+%E2%80%A2+Python+%E2%80%A2+C%23+%E2%80%A2+React+%E2%80%A2+PHP;Welcome+to+my+digital+universe+%E2%9C%A8" alt="Dr4m Typing SVG" />
 </a>
 
 <!-- Profile Views Counter Badge -->
 <p align="center">
   <a href="https://github.com/DrxmReal">
-    <img src="https://komarev.com/ghpvc/?username=DrxmReal&color=8a2be2&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=DrxmReal.DrxmReal&left_text=PROFILE%20VIEWS&left_color=0d1117&right_color=8a2be2" alt="Profile Views" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@ dr4m@cyberspace:~$ neofetch --profile
 🏫 Education   : CYP PTMC (Medical Student)
 🌱 Medical Focus: Rehabilitation & Physical Therapy
 💻 Passion     : Systems, Reverse Eng & Tool Development
-💫 Core Skills : Rust, Python, C#, React, PHP
+💫 Core Skills : Rust, C++, Python, C#, React, PHP
 🛠️ Philosophy  : Craft high-efficiency software with passion
 🏃 Lifestyle   : Running • Cycling • Walking • Night Hacking
 ----------------------------------------------
@@ -46,6 +46,7 @@ dr4m@cyberspace:~$ neofetch --profile
 
 <p align="left">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
