@@ -61,8 +61,8 @@ dr4m@cyberspace:~$ neofetch --profile
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrxmReal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff2a85&text_color=a9b1d6" height="165" alt="DrxmReal GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrxmReal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=a9b1d6" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DrxmReal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff2a85&text_color=a9b1d6&cache_seconds=1800&v=2" height="165" alt="DrxmReal GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrxmReal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=a9b1d6&langs_count=8&cache_seconds=1800&v=2" height="165" alt="Top Languages" />
 </div>
 
 <br/>
