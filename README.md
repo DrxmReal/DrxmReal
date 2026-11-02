@@ -1,74 +1,21 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=Dr4m+S%C3%BAp%C3%A8r+m%E1%BA%BFrci+%3C3;Medical+Student+%26+Code+Enthusiast;Rust+%E2%80%A2+C%2B%2B+%E2%80%A2+Python+%E2%80%A2+C%23+%E2%80%A2+React+%E2%80%A2+PHP;Welcome+to+my+digital+universe+%E2%9C%A8" alt="Dr4m Typing SVG" />
-</a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m DrxmReal"></picture>
 
-<!-- Profile Views Counter Badge -->
-<p align="center">
-  <a href="https://github.com/DrxmReal">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=DrxmReal.DrxmReal&left_text=PROFILE%20VIEWS&left_color=0d1117&right_color=8a2be2" alt="Profile Views" />
-  </a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="28.954%" alt=""></picture><a href="https://github.com/DrxmReal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="16.014%" alt="github"></picture></a><a href="https://discord.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="mailto:tube83001@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="9.523%" alt="mail"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="28.954%" alt=""></picture>
 
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-<br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<table>
-  <tr>
-    <td width="38%" align="center" valign="middle">
-      <img src="assets/avatar.png" width="290" style="border-radius: 24px; box-shadow: 0 8px 30px rgba(138,43,226,0.3);" alt="Sleepy Cyber Catgirl Portrait" />
-    </td>
-    <td width="62%" valign="top">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-```zsh
-dr4m@cyberspace:~$ neofetch --profile
-----------------------------------------------
-👤 Identity    : Dr4m (DrxmReal)
-🏫 Education   : CYP PTMC (Medical Student)
-🌱 Medical Focus: Rehabilitation & Physical Therapy
-💻 Passion     : Systems, Reverse Eng & Tool Development
-💫 Core Skills : Rust, C++, Python, C#, React, PHP
-🛠️ Philosophy  : Craft high-efficiency software with passion
-🏃 Lifestyle   : Running • Cycling • Walking • Night Hacking
-----------------------------------------------
-```
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-  </td>
- </tr>
-</table>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-<br/>
+<a href="https://github.com/DrxmReal?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="All repositories"></picture></a>
 
-### ⚡ Tech Stack & Technologies
+<a href="https://metawka.github.io/expressive-profile/?from=DrxmReal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-</p>
-
-<br/>
-
-### 📊 GitHub Activity & Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrxmReal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff2a85&text_color=a9b1d6&cache_seconds=1800&v=2" height="165" alt="DrxmReal GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrxmReal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=a9b1d6&langs_count=8&cache_seconds=1800&v=2" height="165" alt="Top Languages" />
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <sub>✨ Designed with Cyberpunk Aesthetic • Maintained by Dr4m</sub>
 </div>

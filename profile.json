@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "login": "DrxmReal",
+  "seed": "#2563EB",
+  "seedFromAvatar": false,
+  "scheme": "expressive",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "DrxmReal",
+    "subtitle": "Systems Programming · Reverse Engineering · Desktop Tooling",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "code",
+        "label": "C++ · Python · Lua"
+      },
+      {
+        "icon": "location_on",
+        "label": "Vietnam"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "terminal",
+        "label": "Systems & low-level software enthusiast"
+      },
+      {
+        "icon": "bolt",
+        "label": "Binary analysis & reverse engineering"
+      },
+      {
+        "icon": "desktop_windows",
+        "label": "Windows / Linux desktop customization"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Languages & Systems",
+        "items": [
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:lua",
+            "label": "Lua"
+          }
+        ]
+      },
+      {
+        "title": "Tools & Environment",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:github",
+            "label": "GitHub"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:neovim",
+            "label": "Neovim"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "Exploring systems and low-level tools.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/DrxmReal"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com"
+      },
+      {
+        "icon": "mail",
+        "url": "mailto:tube83001@gmail.com"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/DrxmReal?tab=repositories",
+        "style": "filled"
+      }
+    ]
+  }
+}
