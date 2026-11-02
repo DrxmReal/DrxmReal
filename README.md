@@ -8,6 +8,8 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
+<a href="https://github.com/DrxmReal/SLK-Unlocker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-slk-unlocker-dark.svg"><img src="assets/project-slk-unlocker-light.svg" width="49%" alt="SLK-Unlocker"></picture></a>&nbsp;<a href="https://github.com/DrxmReal/WhoziaoHub"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-whoziaohub-dark.svg"><img src="assets/project-whoziaohub-light.svg" width="49%" alt="WhoziaoHub"></picture></a>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>

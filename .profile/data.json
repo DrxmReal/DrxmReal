@@ -1,144 +1,318 @@
 {
- "key": "61a1a8a5",
- "stars": 10,
- "contributions": 52,
- "repos": 5,
- "followers": 2,
+ "key": "a602a7c3",
+ "stars": 6,
+ "contributions": 90,
+ "repos": 18,
+ "followers": 1,
  "languages": [
   [
    "C++",
-   55
+   733313
   ],
   [
-   "Python",
-   25
+   "JavaScript",
+   414757
   ],
   [
-   "Lua",
-   12
+   "TypeScript",
+   232838
+  ],
+  [
+   "HTML",
+   158799
   ],
   [
    "Rust",
-   8
+   121632
+  ],
+  [
+   "CSS",
+   97014
+  ],
+  [
+   "C",
+   78339
   ]
  ],
  "days": [
   [
    {
     "c": 0,
-    "day": 2,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 3,
-    "today": false
-   },
-   {
-    "c": 2,
-    "day": 4,
-    "today": false
-   },
-   {
-    "c": 3,
-    "day": 5,
+    "day": 18,
     "today": false
    },
    {
     "c": 0,
-    "day": 6,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 7,
-    "today": false
-   },
-   {
-    "c": 2,
-    "day": 8,
-    "today": false
-   }
-  ],
-  [
-   {
-    "c": 3,
-    "day": 2,
+    "day": 19,
     "today": false
    },
    {
     "c": 0,
-    "day": 3,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 4,
-    "today": false
-   },
-   {
-    "c": 2,
-    "day": 5,
-    "today": false
-   },
-   {
-    "c": 3,
-    "day": 6,
+    "day": 20,
     "today": false
    },
    {
     "c": 0,
-    "day": 7,
+    "day": 21,
     "today": false
    },
    {
-    "c": 1,
-    "day": 8,
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 24,
     "today": false
    }
   ],
   [
    {
     "c": 2,
-    "day": 2,
-    "today": false
-   },
-   {
-    "c": 3,
-    "day": 3,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 4,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 5,
+    "day": 25,
     "today": false
    },
    {
     "c": 2,
-    "day": 6,
-    "today": false
-   },
-   {
-    "c": 3,
-    "day": 7,
+    "day": 26,
     "today": false
    },
    {
     "c": 0,
-    "day": 8,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 2,
     "today": true
-   }
+   },
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
-  "current": 3,
-  "longest": 14
+  "current": 1,
+  "longest": 3
  },
- "pins": [],
- "all": []
+ "pins": [
+  {
+   "name": "SLK-Unlocker",
+   "url": "https://github.com/DrxmReal/SLK-Unlocker",
+   "text": "Trình quản lý & Tối ưu hóa Steam Toàn diện — Tích hợp Steam Millennium Plugin, DropZone Widget & Cloud Game Manager",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "WhoziaoHub",
+   "url": "https://github.com/DrxmReal/WhoziaoHub",
+   "text": "Steam Depot Manifest Library",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "slk-hotmail-checker",
+   "url": "https://github.com/DrxmReal/slk-hotmail-checker",
+   "text": "Hotmail checker",
+   "fork": false,
+   "stars": 2,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "SLK-Nitro-Gen",
+   "url": "https://github.com/DrxmReal/SLK-Nitro-Gen",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "minisearch",
+   "url": "https://github.com/DrxmReal/minisearch",
+   "text": "🔍 Lightning-fast Spotlight-style search launcher for Windows 10/11 built with Tauri v2, Rust & Everything IPC",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "anime-game-bypass",
+   "url": "https://github.com/DrxmReal/anime-game-bypass",
+   "text": "Join",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "SLK-SteamTools",
+   "url": "https://github.com/DrxmReal/SLK-SteamTools",
+   "text": "SLK Unlocker Core Steam Hook & Unlocker Toolset",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "slk-steam-monitor",
+   "url": "https://github.com/DrxmReal/slk-steam-monitor",
+   "text": "SLK Unlocker automated Steam client pattern database",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "sekaipop-windows",
+   "url": "https://github.com/DrxmReal/sekaipop-windows",
+   "text": "🌸 SekaiPop for Windows — Aesthetic anime-inspired spotlight launcher & wallpaper-reactive menu for Windows 11/10",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "MiniCord-Next",
+   "url": "https://github.com/DrxmReal/MiniCord-Next",
+   "text": "Ultra-fast, resource-efficient Discord client built with Tauri v2, Rust & React. Features live Wallpaper Engine dynamic theming, Discord Gateway WebSocket, native video player, and rich embeds.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "WhoziaoHub-Web",
+   "url": "https://github.com/DrxmReal/WhoziaoHub-Web",
+   "text": "WhoziaoHub — Steam Manifest & Lua Registry Web Portal for SLK Unlocker",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "slk-gateway",
+   "url": "https://github.com/DrxmReal/slk-gateway",
+   "text": "SLK Gateway — OpenAI /v1 Compatible Free AI API & Model Status Dashboard",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "dr4m-portfolio",
+   "url": "https://github.com/DrxmReal/dr4m-portfolio",
+   "text": "Personal portfolio & socials website for Dr4m",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "register",
+   "url": "https://github.com/DrxmReal/register",
+   "text": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "SLK-Unlocker",
+   "url": "https://github.com/DrxmReal/SLK-Unlocker",
+   "text": "Trình quản lý & Tối ưu hóa Steam Toàn diện — Tích hợp Steam Millennium Plugin, DropZone Widget & Cloud Game Manager",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "WhoziaoHub",
+   "url": "https://github.com/DrxmReal/WhoziaoHub",
+   "text": "Steam Depot Manifest Library",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Roblox-Account-Manager",
+   "url": "https://github.com/DrxmReal/Roblox-Account-Manager",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "DrxmReal",
+   "url": "https://github.com/DrxmReal/DrxmReal",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "TempMail",
+   "url": "https://github.com/DrxmReal/TempMail",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Console-Account-Checker-Base",
+   "url": "https://github.com/DrxmReal/Console-Account-Checker-Base",
+   "text": "Console Account Checker made in C#, can be forked or downloaded.",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  }
+ ]
 }
